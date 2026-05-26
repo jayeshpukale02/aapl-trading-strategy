@@ -87,7 +87,7 @@ That's exactly what you want a risk filter to do.
 | Maximum Drawdown | 15.19% |
 | Walk-Forward Analysis Score | 34.1% (WFA Efficiency) |
 | Robustness Score | 80.8 (> 75 ✅) |
-| GitHub Repository URL | *(add your repo URL here)* |
+| GitHub Repository URL | https://github.com/jayeshpukale02/aapl-trading-strategy |
 
 Additional metrics from the full backtest:
 
